@@ -1,4 +1,4 @@
-# Loan Credit Prediction and Analysis
+# Credit Loan Prediction and Analysis
 
 The final task of the Project-Based Internship at IDX Partners x Rakamin Academy was conducted from October to November 2023.
 
